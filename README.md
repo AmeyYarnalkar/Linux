@@ -49,10 +49,8 @@ This repository is organized as follows:
 │   └── Advanced/
 ├── Challenges/           # Exercises and tasks to reinforce learning.
 └── README.md             # You are here!
+```
 
 ## 💬 Connect With Me
-```plaintext
 If you have questions, suggestions, or collaboration ideas, feel free to reach out! This journey is all about learning and growing together, and I’d love to hear from you.
-
-
 This `README.md` now includes everything formatted and structured for your GitHub repository. Let me know if you'd like further refinements!
