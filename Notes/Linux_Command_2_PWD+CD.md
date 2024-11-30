@@ -1,5 +1,3 @@
-Here are the Markdown notes for the `pwd` (Print Working Directory) and `cd` (Change Directory) commands:
-
 # `pwd` (Print Working Directory)
 
 ## 1. What is `pwd`?
